@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+
+body {
+  background-image: url("Images/BirthdayBaloons.jpg");
+  background-repeat: no-repeat;
+}
+.card {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  border-style: none;
+  border-radius: 5px;
+  margin: auto;
+  width: 50%;
+  height: 30%;
+  text-align: center;
+  background-color: white;
+  
+}
+h1 {
+  font-size: 1em;
+  font-family: Lobster two;
+}
+.button {
+  border-radius: 0;
+  background-color: #123456;
+  border-style: none;
+  width: 5em;
+  padding:2%;
+  margin-top:2%;
+  color: white;
+  text-align: center;
+}
+.input {
+  background-color: #FEFFAB;
+  width: auto;
+  border-style: solid;
+  border-color: black;
+}
+.NumInput {
+  background-color: #FEFFAB;
+  width: 3em;
+  border-style: solid;
+  border-color: black;
+}
